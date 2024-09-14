@@ -12,8 +12,8 @@ body {
 }
 
 header {
-    background: #333;
-    color: #FFC0CB;
+    background: #FFC0CB;
+    color: #fff;
     padding: 10px 0;
     text-align: center;
 }
@@ -89,7 +89,7 @@ button:hover {
 }
 
 footer {
-    background: #333;
+    background: #FFC0CB;
     color: #fff;
     text-align: center;
     padding: 10px 0;
